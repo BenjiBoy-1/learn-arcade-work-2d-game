@@ -57,8 +57,8 @@ arcade.draw_line(100, 550, 50, 600, arcade.color.YELLOW, 3)  # Top-Left
 arcade.draw_line(100, 550, 50, 500, arcade.color.YELLOW, 3)  # Bottom-Left
 
 #writing text
-arcade.draw_text("Good Morning Mother F****r",
-                 95, 230,
+arcade.draw_text("Go F*** Yourself",
+                 185, 230,
                  arcade.color.BLACK, 24)
 
 finish_render()
